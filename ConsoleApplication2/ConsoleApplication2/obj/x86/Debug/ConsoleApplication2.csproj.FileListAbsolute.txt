@@ -1,0 +1,8 @@
+C:\Users\USER\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\USER\AppData\Local\Temporary Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\USER\AppData\Local\Temporary Projects\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\USER\Desktop\Новая папка (3)\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\USER\Desktop\Новая папка (3)\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
+C:\Users\USER\Desktop\Новая папка (3)\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
